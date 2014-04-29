@@ -8,8 +8,7 @@ Follow the steps:
 1. Clone the repository 
  git clone https://github.com/shadow2burn/aws_local_to_s3.git
 
-2. Run the command in your terminal/console
-composer install
+2. Run the command "composer install" in your terminal/console
 
 3. Update the config.php file 
 
