@@ -6,7 +6,7 @@ This script is build to upload local images to the S3 server easily.
 Follow the steps:
 
 1. Clone the repository 
- git clone https://github.com/shadow2burn/aws_local_to_s3.git
+ git clone https://github.com/shrasel/aws_local_to_s3.git
 
 2. Run the command "composer install" in your terminal/console
 
